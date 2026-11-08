@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Kevin Kosina, I am an aspiring computer scientist with an interest in Information Security. I am proficient in C, C++, Java, x86 Assembly and have experience with virtual machines, using Unix bash and debugging through GNU debugger.
+My name is Kevin Kosina, I am an aspiring computer scientist with an interest in Information Security.
 - Currently a student at University of Illinois Chicago
 - Interested in a technology internships
 - Completed [GitHub Foundations](https://learn.microsoft.com/en-us/users/kevinko-5064/credentials/303c34af988a0f54)
